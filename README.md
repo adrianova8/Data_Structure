@@ -25,12 +25,12 @@ T * he months of the first quarter
   * What is the rank of this list?
 
 # Exercise 4
-
 - Create a dictionary as follows and answer the questions:
-
- purchase = {"Apples": {"Qty": 5, "€": 0.42}, "Pears": {"Qty": 3, "€": 0.66}}
-
+- 
    * Add some more fruit
    * How much did the pears cost in total?
    * How many fruits did we buy in total?
    * What is the most expensive fruit?
+
+_purchase = {"Apples": {"Qty": 5, "€": 0.42}, "Pears": {"Qty": 3, "€": 0.66}}_
+

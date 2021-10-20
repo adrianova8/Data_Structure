@@ -1,5 +1,7 @@
 # Sprint 3. Data Structure and Control Structures
 
+**Target:**
+
 _We will start to become familiar with Python data structures_
 
 # Exercise 1
@@ -26,9 +28,9 @@ T * he months of the first quarter
 
 - Create a dictionary as follows and answer the questions:
 
- * purchase = {"Apples": {"Qty": 5, "€": 0.42}, "Pears": {"Qty": 3, "€": 0.66}}
+ purchase = {"Apples": {"Qty": 5, "€": 0.42}, "Pears": {"Qty": 3, "€": 0.66}}
 
-  * Add some more fruit
-  * How much did the pears cost in total?
-  * How many fruits did we buy in total?
-  * What is the most expensive fruit?
+   * Add some more fruit
+   * How much did the pears cost in total?
+   * How many fruits did we buy in total?
+   * What is the most expensive fruit?

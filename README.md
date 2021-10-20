@@ -26,7 +26,7 @@ T * he months of the first quarter
 
 # Exercise 4
 - Create a dictionary as follows and answer the questions:
-- 
+ 
    * Add some more fruit
    * How much did the pears cost in total?
    * How many fruits did we buy in total?

@@ -1,6 +1,10 @@
 # Sprint 3. Data Structure and Control Structures
 
 **Target:**
+ * Lists
+ * tuples
+ * Sets
+ * Dictionaries
 
 _We will start to become familiar with Python data structures_
 

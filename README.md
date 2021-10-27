@@ -1,4 +1,4 @@
-# Sprint 3. Data Structure and Control Structures
+# S03 T01: Data Structure
 
 **Target:**
  * Lists

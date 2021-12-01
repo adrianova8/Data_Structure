@@ -15,7 +15,7 @@ _We will start to become familiar with Python data structures_
 - Create a code that allows you to access:
 
   * The second month of the first quarter
-T * he months of the first quarter
+  * he months of the first quarter
   * September and October
 
 # Exercise 3
